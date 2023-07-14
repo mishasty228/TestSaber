@@ -1,8 +1,6 @@
 ﻿  TestSaber.cpp
-D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(105,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
-D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(114,33): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
-D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(129,23): warning C4018: <: несоответствие типов со знаком и без знака
-D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(174,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
-D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(263,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(54): warning C4172: возвращение адреса локальной или временной переменной : Target
+D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(123,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(149,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(195,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\TestTasks\TestSaber\TestSaber\TestSaber.cpp(284,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   TestSaber.vcxproj -> D:\TestTasks\TestSaber\x64\Debug\TestSaber.exe
